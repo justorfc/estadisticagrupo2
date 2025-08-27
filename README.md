@@ -1,1 +1,3 @@
-# estadisticagrupo2
+# INTERRUMPIERON LA CLASE REPETIRLA
+
+estadisticagrupo2
